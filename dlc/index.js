@@ -22,8 +22,8 @@
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "Goon.dlc", 
+        "title": "Goon test",
         "buttons": [
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
