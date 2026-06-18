@@ -15,7 +15,7 @@
         ]
     },
     {
-        "file": "HYPFULL.DLC",
+        "file": "HYPFULL.dlc",
         "title": "Hyper FULL",
         "buttons": [
             { "title": "Hyper 3", "action": [75,0,3,4] },
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "file": "HYPSAFE.DLC",
+        "file": "HYPSAFE.dlc",
         "title": "Hyper SAFE",
         "buttons": [
             { "title": "Safe 3", "action": [75,0,3,4] },
