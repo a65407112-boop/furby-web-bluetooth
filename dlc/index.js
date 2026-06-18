@@ -15,19 +15,19 @@
         ]
     },
     {
-        "file": "Hyperbaiter_HACKED_fullsong.dlc",
-        "title": "Hyperbaiter FULL",
+        "file": "HYPFULL.DLC",
+        "title": "Hyper FULL",
         "buttons": [
-            { "title": "Hyper action 3", "action": [75,0,3,4] },
-            { "title": "Hyper action 4", "action": [75,0,4,4] }
+            { "title": "Hyper 3", "action": [75,0,3,4] },
+            { "title": "Hyper 4", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "Hyperbaiter_HACKED_truncated_AMFsize.dlc",
-        "title": "Hyperbaiter SAFE",
+        "file": "HYPSAFE.DLC",
+        "title": "Hyper SAFE",
         "buttons": [
-            { "title": "Safe action 3", "action": [75,0,3,4] },
-            { "title": "Safe action 4", "action": [75,0,4,4] }
+            { "title": "Safe 3", "action": [75,0,3,4] },
+            { "title": "Safe 4", "action": [75,0,4,4] }
         ]
     },
     {
